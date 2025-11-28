@@ -1,12 +1,9 @@
 {
-  "short_name": "TanStack App",
-  "name": "Create TanStack App Sample",
+  "short_name": "Sony α6700",
+  "name": "Sony α6700 | Unleash Your Vision",
+  "description": "El poder de la creación de contenido APS-C de próxima generación",
   "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
+   
     {
       "src": "logo192.png",
       "type": "image/png",
@@ -20,6 +17,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#F7931E",
+  "background_color": "#050505"
 }
